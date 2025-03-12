@@ -32,33 +32,6 @@
 5. [Contributing](#contributing)
 6. [License](#license)
 
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-- Node.js
-- npm
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Blacktechcompany/Blacktech.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-## Usage
-
-1. Start the development server
-   ```sh
-   npm start
-   ```
-2. Open your browser and navigate to `http://localhost:3000`
 
 ## Contributing
 
@@ -76,9 +49,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/Blacktechcompany/Blacktech](https://github.com/Blacktechcompany/Blacktech)
+Project Link: Soon
 
 ## GitHub Stats
 
